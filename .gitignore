@@ -1,0 +1,7 @@
+data/HW*
+.pyc
+.idea
+.vscode
+__pycache__
+__pycache__/*
+__pycache__/data_extractor.cpython-37.pyc
